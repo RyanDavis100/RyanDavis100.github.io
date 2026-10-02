@@ -1,0 +1,16 @@
+---
+title: "E-Portfolio"
+image: Headshot.jpeg
+about:
+  template: jolla
+  links:
+  - icon: github
+    text: GitHub
+    href: https://github.com/RyanDavis100
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/ryan-davis-6654732b1/
+  - icon: inboxes
+    text: Contact
+    href: mailto:RyanEDavis100@Gmail.com
+---

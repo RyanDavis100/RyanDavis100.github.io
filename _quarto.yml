@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - [googledf91c2d5c2bac738].html
   
 website:
   title: "Ryan Davis"

@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis Group Project"
-authors: "Ryan Davis, Adam Harding, Chase Gibbons, Molly Lingenfelter, Mahala Williamson"
+authors: "Ryan Davis, Adam Harding, [Chase Gibbons]https://chaseg479.github.io/, Molly Lingenfelter, Mahala Williamson"
 date: "11-13-2026"
 categories: [analysis, presentation, Powerpoint, code, design]
 image: "Slide1.jpg"

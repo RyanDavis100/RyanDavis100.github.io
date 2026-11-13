@@ -2,7 +2,7 @@
 title: "Data Analysis Group Project"
 authors: 
 "Ryan Davis
-Adam harding
+Adam Harding
 Chase Gibbons - https://chaseg479.github.io/
 Molly Lingenfelter
 Mahala Williamson"

@@ -5,7 +5,7 @@ authors:
   - "[Adam Harding](https://adamharding.github.io/)"
   - "[Chase Gibbons](https://chaseg479.github.io/)"
   - "[Molly Lingenfelter](https://mollylingenfelter.github.io)"
-  - "Mahala Williamson"
+  - "[Mahala Williamson](https://koala-q0zrgh.my.canva.site/)"
 date: "11-13-2026"
 categories: [analysis, presentation, Powerpoint, code, design]
 image: "Slide1.jpg"
